@@ -1,11 +1,11 @@
 ## Coding
-88. [合并两个有序数组](https://github.com/naturalcodin/blog/issues/12)
-
-## LeetCode
 1. [数组扁平化](https://github.com/naturalcodin/blog/issues/11)
 2. [手写new/call/apply/bind](https://github.com/naturalcodin/blog/issues/13)
 3. [手写防抖节流](https://github.com/naturalcodin/blog/issues/14)
 4. [十大排序算法](https://github.com/naturalcodin/blog/issues/15)
+
+## LeetCode
+88. [合并两个有序数组](https://github.com/naturalcodin/blog/issues/12)
 
 ## Basics
 1. [JavaScript之this、call和apply](https://github.com/naturalcodin/blog/issues/6)
