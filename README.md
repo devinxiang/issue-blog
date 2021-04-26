@@ -15,6 +15,14 @@
 ### 数组
 88. [合并两个有序数组](https://github.com/naturalcodin/blog/issues/12)
 
+20. [有效的括号【easy】](https://github.com/naturalcodin/blog/issues/30)
+
+844. [比较含退格的字符串【easy】](https://github.com/naturalcodin/blog/issues/31)
+
+225. [用队列实现栈【easy】](https://github.com/naturalcodin/blog/issues/33)
+
+232. [用栈实现队列【easy】](https://github.com/naturalcodin/blog/issues/34)
+
 ### 链表
 206. [反转链表](https://github.com/naturalcodin/blog/issues/25)
 24. [两两交换链表中的节点](https://github.com/naturalcodin/blog/issues/26)
