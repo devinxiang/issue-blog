@@ -13,15 +13,15 @@
 
 ## LeetCode
 ### 数组
-88. [合并两个有序数组](https://github.com/naturalcodin/blog/issues/12)
+[88. 合并两个有序数组](https://github.com/naturalcodin/blog/issues/12)
 
-20. [有效的括号【easy】](https://github.com/naturalcodin/blog/issues/30)
+[20. 有效的括号【easy】](https://github.com/naturalcodin/blog/issues/30)
 
-844. [比较含退格的字符串【easy】](https://github.com/naturalcodin/blog/issues/31)
+[844. 比较含退格的字符串【easy】](https://github.com/naturalcodin/blog/issues/31)
 
-225. [用队列实现栈【easy】](https://github.com/naturalcodin/blog/issues/33)
+[225. 用队列实现栈【easy】](https://github.com/naturalcodin/blog/issues/33)
 
-232. [用栈实现队列【easy】](https://github.com/naturalcodin/blog/issues/34)
+[232. 用栈实现队列【easy】](https://github.com/naturalcodin/blog/issues/34)
 
 ### 链表
 206. [反转链表](https://github.com/naturalcodin/blog/issues/25)
